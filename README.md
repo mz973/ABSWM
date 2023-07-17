@@ -1,3 +1,3 @@
 # ABSWM
-Placeholder for Neural Geometry of Abstract Working Memory\n
+Placeholder for Neural Geometry of Abstract Working Memory <br />
 Codes will be added after Biorxiv upload
